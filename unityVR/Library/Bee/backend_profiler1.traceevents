@@ -1,0 +1,702 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1659561412219630, "dur":1448, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412221088, "dur":165, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1659561412221295, "dur":40, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1659561412221336, "dur":967, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1659561412222334, "dur":650, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412222984, "dur":2, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412522356, "dur":701, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523057, "dur":221, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523278, "dur":10, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523288, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523301, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523305, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523316, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523320, "dur":18, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523338, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523342, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523353, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523357, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523369, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523373, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523385, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523389, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523401, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523405, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523417, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523422, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523433, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523437, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523448, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523451, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523462, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523466, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523478, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523481, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523492, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523496, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523505, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523509, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523519, "dur":58, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523577, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523587, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523591, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523602, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523606, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523617, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523621, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523630, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523634, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523643, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523647, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523657, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523661, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523672, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523676, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523687, "dur":1, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523707, "dur":3, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412523748, "dur":4159, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1659561412222008, "dur":988, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1659561412222999, "dur":6628, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1659561412229650, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1659561412229651, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1659561412229735, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1659561412229743, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1659561412230608, "dur":4166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1659561412234776, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore.exe" }}
+,{ "pid":12345, "tid":1, "ts":1659561412234813, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1659561412234817, "dur":85018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore.exe" }}
+,{ "pid":12345, "tid":1, "ts":1659561412319880, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1659561412319935, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1659561412319944, "dur":27731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1659561412347726, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1659561412347789, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1659561412347798, "dur":2171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1659561412350023, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1659561412350089, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1659561412350097, "dur":30717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1659561412380860, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.XR.OpenXR.Features.ConformanceAutomation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1659561412380988, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1659561412380997, "dur":3042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.XR.OpenXR.Features.ConformanceAutomation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1659561412384092, "dur":573, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.WebRTC.dll" }}
+,{ "pid":12345, "tid":1, "ts":1659561412384670, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1659561412384680, "dur":10738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.WebRTC.dll" }}
+,{ "pid":12345, "tid":1, "ts":1659561412395475, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1659561412395666, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1659561412395678, "dur":22517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1659561412418263, "dur":978, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1659561412419245, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1659561412419256, "dur":28007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1659561412447318, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1659561412447382, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1659561412447393, "dur":28676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1659561412476129, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1659561412476306, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1659561412476316, "dur":30380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1659561412506743, "dur":15801, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1659561412222785, "dur":370, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1659561412223156, "dur":6529, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1659561412229685, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1659561412229844, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1659561412347778, "dur":3021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1659561412350853, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1659561412350907, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1659561412350940, "dur":3735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1659561412354726, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1659561412354768, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1659561412354775, "dur":87849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1659561412442675, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1659561412442727, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1659561412442736, "dur":43097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1659561412485909, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1659561412485977, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1659561412485985, "dur":11460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1659561412497515, "dur":24832, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1659561412222057, "dur":947, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1659561412223004, "dur":6633, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1659561412229650, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1659561412229844, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1659561412353909, "dur":4842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1659561412358835, "dur":391, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1659561412359236, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1659561412359247, "dur":42391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1659561412401704, "dur":5434, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1659561412407145, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1659561412407159, "dur":31235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1659561412438452, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1659561412438512, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1659561412438552, "dur":41194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1659561412479797, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Plugins/x86_64/openxr_loader.dll" }}
+,{ "pid":12345, "tid":3, "ts":1659561412479860, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1659561412480490, "dur":3893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Plugins/x86_64/openxr_loader.dll" }}
+,{ "pid":12345, "tid":3, "ts":1659561412484448, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1659561412484504, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1659561412484517, "dur":13164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1659561412497741, "dur":24608, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1659561412222108, "dur":905, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1659561412223013, "dur":6621, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1659561412229647, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1659561412229825, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1659561412238122, "dur":946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1659561412239132, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1659561412239178, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1659561412239184, "dur":81263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1659561412320519, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1659561412320607, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1659561412320612, "dur":28932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1659561412349634, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1659561412349695, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1659561412349704, "dur":47511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1659561412397280, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":4, "ts":1659561412397469, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1659561412397479, "dur":26376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":4, "ts":1659561412423960, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":4, "ts":1659561412424014, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1659561412424024, "dur":98161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":4, "ts":1659561412522235, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":4, "ts":1659561412522238, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1659561412222202, "dur":830, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1659561412223032, "dur":6617, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1659561412229649, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1659561412229848, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1659561412355078, "dur":6922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1659561412362074, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1659561412362174, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1659561412362183, "dur":8766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1659561412370992, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1659561412371043, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1659561412371053, "dur":53605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1659561412424706, "dur":222, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1659561412424932, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1659561412424941, "dur":38137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1659561412463130, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1659561412463183, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1659561412463192, "dur":38616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1659561412502008, "dur":20478, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1659561412222249, "dur":792, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1659561412223041, "dur":6610, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1659561412229651, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1659561412229854, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1659561412364726, "dur":5024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1659561412369809, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1659561412369894, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1659561412369904, "dur":71424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1659561412441386, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1659561412441435, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1659561412441446, "dur":32001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1659561412473491, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1659561412473534, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1659561412473542, "dur":30266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1659561412503855, "dur":18672, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1659561412222929, "dur":262, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1659561412223191, "dur":6497, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1659561412229688, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/NVUnityPlugin.dll" }}
+,{ "pid":12345, "tid":7, "ts":1659561412229855, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1659561412373192, "dur":4428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/NVUnityPlugin.dll" }}
+,{ "pid":12345, "tid":7, "ts":1659561412377673, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1659561412377732, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1659561412377743, "dur":4245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1659561412382043, "dur":446, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.XR.Interaction.Toolkit.dll" }}
+,{ "pid":12345, "tid":7, "ts":1659561412382493, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1659561412382501, "dur":11330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.XR.Interaction.Toolkit.dll" }}
+,{ "pid":12345, "tid":7, "ts":1659561412393932, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":7, "ts":1659561412394089, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1659561412394103, "dur":17561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":7, "ts":1659561412411716, "dur":427, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1659561412412147, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1659561412412157, "dur":20626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1659561412432831, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1659561412432879, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1659561412432889, "dur":38375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1659561412471316, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1659561412471370, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1659561412471380, "dur":30959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1659561412502388, "dur":20039, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1659561412222340, "dur":722, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1659561412223062, "dur":6612, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1659561412229682, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1659561412229838, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1659561412333359, "dur":7082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1659561412340492, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":8, "ts":1659561412340655, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1659561412340664, "dur":1085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":8, "ts":1659561412341790, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1659561412341837, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1659561412341846, "dur":1116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1659561412343001, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1659561412343047, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1659561412343056, "dur":31635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1659561412374736, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1659561412374781, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1659561412374790, "dur":145335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1659561412520177, "dur":2421, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1659561412223020, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1659561412223021, "dur":6636, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1659561412229658, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1659561412229775, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1659561412323568, "dur":1116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1659561412324724, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1659561412324763, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1659561412324769, "dur":979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1659561412325793, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1659561412325844, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1659561412325856, "dur":1703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1659561412327602, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1659561412327650, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1659561412327660, "dur":33079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1659561412360790, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1659561412360845, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1659561412360853, "dur":5550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1659561412366455, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1659561412366516, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1659561412366527, "dur":44336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1659561412410914, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":9, "ts":1659561412411080, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1659561412411093, "dur":22171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":9, "ts":1659561412433317, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":9, "ts":1659561412433369, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1659561412433378, "dur":41029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":9, "ts":1659561412474455, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1659561412474511, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1659561412474519, "dur":35297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1659561412509861, "dur":12721, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1659561412222431, "dur":640, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1659561412223071, "dur":6575, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1659561412229657, "dur":190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1659561412229851, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1659561412363069, "dur":4814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1659561412368338, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1659561412368419, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1659561412368429, "dur":50452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1659561412418934, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":10, "ts":1659561412418980, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1659561412418989, "dur":23330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":10, "ts":1659561412442360, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1659561412442405, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1659561412442414, "dur":35499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1659561412478761, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Plugins/x86_64/webrtc.dll" }}
+,{ "pid":12345, "tid":10, "ts":1659561412478827, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1659561412480446, "dur":12542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Plugins/x86_64/webrtc.dll" }}
+,{ "pid":12345, "tid":10, "ts":1659561412493055, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":10, "ts":1659561412493117, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1659561412493126, "dur":12993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":10, "ts":1659561412506175, "dur":16186, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1659561412222460, "dur":621, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1659561412223081, "dur":6559, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1659561412229650, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1659561412229813, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1659561412333865, "dur":1267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1659561412335184, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1659561412335241, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1659561412335249, "dur":1978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1659561412337289, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1659561412337342, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1659561412337354, "dur":48827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1659561412386242, "dur":2166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1659561412388412, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1659561412388422, "dur":9551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1659561412398021, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1659561412398170, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1659561412398178, "dur":31048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1659561412429281, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1659561412429452, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1659561412429462, "dur":42704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1659561412472223, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/NReco.Csv.dll" }}
+,{ "pid":12345, "tid":11, "ts":1659561412472281, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1659561412472291, "dur":40190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/NReco.Csv.dll" }}
+,{ "pid":12345, "tid":11, "ts":1659561412512526, "dur":10096, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1659561412222493, "dur":597, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1659561412223090, "dur":6548, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1659561412229648, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1659561412229789, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1659561412345971, "dur":1733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1659561412347765, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1659561412347830, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1659561412347840, "dur":4875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1659561412352840, "dur":469, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1659561412353314, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1659561412353322, "dur":27722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1659561412381098, "dur":253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.XR.OpenXR.dll" }}
+,{ "pid":12345, "tid":12, "ts":1659561412381355, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1659561412381363, "dur":6363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.XR.OpenXR.dll" }}
+,{ "pid":12345, "tid":12, "ts":1659561412387785, "dur":398, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1659561412388187, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1659561412388197, "dur":9357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1659561412397611, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":12, "ts":1659561412397761, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1659561412397771, "dur":24607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":12, "ts":1659561412422432, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":12, "ts":1659561412422536, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1659561412422545, "dur":84877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":12, "ts":1659561412507465, "dur":14885, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1659561412222540, "dur":563, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1659561412223103, "dur":6538, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1659561412229649, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1659561412229749, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1659561412237639, "dur":1099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1659561412238788, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1659561412238841, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1659561412238849, "dur":1182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1659561412240066, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1659561412240103, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1659561412240108, "dur":79998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1659561412320157, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1659561412320219, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1659561412320227, "dur":1263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1659561412321533, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1659561412321584, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1659561412321616, "dur":76336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1659561412398001, "dur":217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":13, "ts":1659561412398222, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1659561412398235, "dur":23424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":13, "ts":1659561412421711, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":13, "ts":1659561412421766, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1659561412421774, "dur":64047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":13, "ts":1659561412485870, "dur":2038, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":13, "ts":1659561412487913, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1659561412487922, "dur":13489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":13, "ts":1659561412501463, "dur":20908, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1659561412222582, "dur":530, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1659561412223112, "dur":6561, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1659561412229673, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412229815, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1659561412231041, "dur":2143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412233215, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/nvngx_dlss.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412233255, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1659561412233259, "dur":85231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/nvngx_dlss.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412318528, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412318572, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1659561412318579, "dur":35867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412354497, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412354553, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1659561412354561, "dur":25904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412380516, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.XR.OpenXR.Features.OculusQuestSupport.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412380662, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1659561412380670, "dur":2904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.XR.OpenXR.Features.OculusQuestSupport.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412383624, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.XR.CoreUtils.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412383811, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1659561412383822, "dur":7620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.XR.CoreUtils.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412391488, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Subsystem.Registration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412391639, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1659561412391649, "dur":8380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Subsystem.Registration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412400083, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412400213, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1659561412400223, "dur":25166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412425455, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412425603, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1659561412425612, "dur":35568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412461272, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412461479, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1659561412461513, "dur":24804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":14, "ts":1659561412486408, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/resources.assets" }}
+,{ "pid":12345, "tid":14, "ts":1659561412486483, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1659561412486490, "dur":14895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/resources.assets" }}
+,{ "pid":12345, "tid":14, "ts":1659561412501435, "dur":21054, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1659561412222627, "dur":493, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1659561412223120, "dur":6522, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1659561412229650, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1659561412229764, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1659561412234733, "dur":880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1659561412235650, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1659561412235688, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1659561412235875, "dur":767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1659561412236670, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":15, "ts":1659561412236776, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1659561412236828, "dur":768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":15, "ts":1659561412237627, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1659561412237665, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1659561412237670, "dur":82484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1659561412320205, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1659561412320266, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1659561412320353, "dur":27866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1659561412348274, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1659561412348328, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1659561412348360, "dur":29711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1659561412378119, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1659561412378169, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1659561412378178, "dur":53671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1659561412431901, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":15, "ts":1659561412431952, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1659561412431961, "dur":44402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":15, "ts":1659561412476414, "dur":20986, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":15, "ts":1659561412497405, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1659561412497416, "dur":6841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":15, "ts":1659561412504307, "dur":18230, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1659561412222687, "dur":442, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1659561412223129, "dur":6538, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1659561412229671, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":16, "ts":1659561412229765, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1659561412238409, "dur":1192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":16, "ts":1659561412239657, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1659561412239719, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1659561412239729, "dur":80764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1659561412320544, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1659561412320603, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1659561412320610, "dur":31271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1659561412352252, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1659561412352321, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1659561412352329, "dur":51735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1659561412404112, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":16, "ts":1659561412404255, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1659561412404266, "dur":26513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":16, "ts":1659561412430829, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":16, "ts":1659561412430883, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1659561412430894, "dur":44400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":16, "ts":1659561412475353, "dur":2776, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":16, "ts":1659561412478134, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1659561412478145, "dur":29010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":16, "ts":1659561412507228, "dur":15333, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1659561412222731, "dur":407, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1659561412223138, "dur":6531, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1659561412229671, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":17, "ts":1659561412229798, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1659561412335660, "dur":2995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":17, "ts":1659561412338705, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1659561412338763, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1659561412338772, "dur":1316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1659561412340133, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1659561412340186, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1659561412340196, "dur":41499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1659561412381740, "dur":389, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.XR.Management.dll" }}
+,{ "pid":12345, "tid":17, "ts":1659561412382133, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1659561412382142, "dur":5695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.XR.Management.dll" }}
+,{ "pid":12345, "tid":17, "ts":1659561412387891, "dur":1092, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":17, "ts":1659561412388987, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1659561412388996, "dur":10572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":17, "ts":1659561412401621, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":17, "ts":1659561412401788, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1659561412401799, "dur":25818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":17, "ts":1659561412427664, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":17, "ts":1659561412427845, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1659561412427855, "dur":42315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":17, "ts":1659561412470235, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":17, "ts":1659561412470288, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1659561412470299, "dur":33790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":17, "ts":1659561412504164, "dur":18368, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1659561412222769, "dur":378, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1659561412223147, "dur":6507, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1659561412229665, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":18, "ts":1659561412229789, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1659561412234462, "dur":1006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":18, "ts":1659561412235501, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":18, "ts":1659561412235538, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1659561412235788, "dur":3734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":18, "ts":1659561412239562, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1659561412239604, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1659561412239609, "dur":80597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1659561412320247, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1659561412320355, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1659561412320364, "dur":29655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1659561412350072, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1659561412350127, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1659561412350135, "dur":11395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1659561412361637, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1659561412361706, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1659561412361716, "dur":37274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1659561412399043, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":18, "ts":1659561412399192, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1659561412399201, "dur":22451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":18, "ts":1659561412421708, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":18, "ts":1659561412421760, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1659561412421769, "dur":79267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":18, "ts":1659561412501082, "dur":21294, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1659561412222161, "dur":862, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1659561412223023, "dur":6613, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1659561412229647, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":19, "ts":1659561412229779, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1659561412334901, "dur":2441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":19, "ts":1659561412337396, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1659561412337451, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1659561412337486, "dur":32215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1659561412369756, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1659561412369809, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1659561412369820, "dur":1257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1659561412371128, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1659561412371184, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1659561412371192, "dur":8798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1659561412380033, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.XR.OpenXR.Features.RuntimeDebugger.dll" }}
+,{ "pid":12345, "tid":19, "ts":1659561412380169, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1659561412380180, "dur":5829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.XR.OpenXR.Features.RuntimeDebugger.dll" }}
+,{ "pid":12345, "tid":19, "ts":1659561412386066, "dur":2721, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":19, "ts":1659561412388791, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1659561412388800, "dur":10171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":19, "ts":1659561412399027, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":19, "ts":1659561412399170, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1659561412399182, "dur":24725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":19, "ts":1659561412424150, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":19, "ts":1659561412424343, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1659561412424376, "dur":31092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":19, "ts":1659561412455523, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":19, "ts":1659561412455574, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1659561412455583, "dur":24414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":19, "ts":1659561412480047, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/UnitySubsystems/UnityOpenXR/UnitySubsystemsManifest.json" }}
+,{ "pid":12345, "tid":19, "ts":1659561412480103, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1659561412480924, "dur":14872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/UnitySubsystems/UnityOpenXR/UnitySubsystemsManifest.json" }}
+,{ "pid":12345, "tid":19, "ts":1659561412495843, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":19, "ts":1659561412495889, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1659561412495897, "dur":9717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":19, "ts":1659561412505906, "dur":16660, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1659561412222819, "dur":347, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1659561412223166, "dur":6497, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1659561412229667, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":20, "ts":1659561412229799, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1659561412323719, "dur":1222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":20, "ts":1659561412324984, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412325034, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1659561412325042, "dur":1130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412326210, "dur":361, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412326577, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1659561412326588, "dur":1222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412327850, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412327893, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1659561412327898, "dur":1068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412329006, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412329059, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1659561412329068, "dur":1341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412330449, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412330494, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1659561412330502, "dur":1306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412331851, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412331898, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1659561412331907, "dur":62098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412394086, "dur":396, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412394487, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1659561412394497, "dur":20842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412415398, "dur":836, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412416239, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1659561412416271, "dur":32112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412448425, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412448471, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1659561412448481, "dur":28318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412476844, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Plugins/x86_64/UnityOpenXR.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412476904, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1659561412478183, "dur":3574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Plugins/x86_64/UnityOpenXR.dll" }}
+,{ "pid":12345, "tid":20, "ts":1659561412481817, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":20, "ts":1659561412481875, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1659561412481950, "dur":3138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":20, "ts":1659561412485134, "dur":602, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":20, "ts":1659561412485742, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1659561412485777, "dur":19036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":20, "ts":1659561412504880, "dur":17621, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1659561412222853, "dur":321, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1659561412223174, "dur":6486, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1659561412229661, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":21, "ts":1659561412229809, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1659561412318547, "dur":1846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":21, "ts":1659561412320444, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1659561412320516, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1659561412320526, "dur":26982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1659561412347565, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1659561412347633, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1659561412347643, "dur":32885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1659561412380596, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.XR.OpenXR.Features.MockRuntime.dll" }}
+,{ "pid":12345, "tid":21, "ts":1659561412380729, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1659561412380741, "dur":5337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.XR.OpenXR.Features.MockRuntime.dll" }}
+,{ "pid":12345, "tid":21, "ts":1659561412386136, "dur":847, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":21, "ts":1659561412386988, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1659561412386999, "dur":9057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":21, "ts":1659561412396114, "dur":282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":21, "ts":1659561412396400, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1659561412396410, "dur":23528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":21, "ts":1659561412419999, "dur":630, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":21, "ts":1659561412420634, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1659561412420643, "dur":41852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":21, "ts":1659561412462707, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":21, "ts":1659561412462762, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1659561412462773, "dur":28747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":21, "ts":1659561412491572, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/level0.resS" }}
+,{ "pid":12345, "tid":21, "ts":1659561412491627, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1659561412491638, "dur":13183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/level0.resS" }}
+,{ "pid":12345, "tid":21, "ts":1659561412504877, "dur":17669, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1659561412222894, "dur":289, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1659561412223183, "dur":6483, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1659561412229670, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":22, "ts":1659561412229801, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1659561412327960, "dur":1464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":22, "ts":1659561412329491, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1659561412329547, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1659561412329558, "dur":1737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1659561412331343, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1659561412331405, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1659561412331417, "dur":32504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1659561412363968, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1659561412364016, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1659561412364024, "dur":53150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1659561412417224, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":22, "ts":1659561412417378, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1659561412417389, "dur":36888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":22, "ts":1659561412454326, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":22, "ts":1659561412454409, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1659561412454420, "dur":26864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":22, "ts":1659561412481330, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":22, "ts":1659561412481469, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1659561412482021, "dur":2187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":22, "ts":1659561412484273, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":22, "ts":1659561412484328, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1659561412484338, "dur":11715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":22, "ts":1659561412496108, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/boot.config" }}
+,{ "pid":12345, "tid":22, "ts":1659561412496270, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1659561412496279, "dur":9649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/boot.config" }}
+,{ "pid":12345, "tid":22, "ts":1659561412505972, "dur":16403, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1659561412222292, "dur":759, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1659561412223051, "dur":6611, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1659561412229662, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":23, "ts":1659561412229767, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1659561412318692, "dur":1973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":23, "ts":1659561412320710, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1659561412320760, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1659561412320767, "dur":1004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1659561412321813, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1659561412321852, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1659561412321857, "dur":22769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1659561412344667, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1659561412344718, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1659561412344728, "dur":40107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1659561412384887, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":23, "ts":1659561412385112, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1659561412385121, "dur":8871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":23, "ts":1659561412394071, "dur":432, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":23, "ts":1659561412394508, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1659561412394518, "dur":17394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":23, "ts":1659561412411961, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":23, "ts":1659561412412111, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1659561412412121, "dur":20898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":23, "ts":1659561412433070, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":23, "ts":1659561412433124, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1659561412433132, "dur":39945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":23, "ts":1659561412473127, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":23, "ts":1659561412473183, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1659561412473192, "dur":32215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":23, "ts":1659561412505452, "dur":16932, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1659561412222962, "dur":237, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1659561412223199, "dur":6476, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1659561412229676, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":24, "ts":1659561412229837, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1659561412328415, "dur":19857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":24, "ts":1659561412348346, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1659561412348401, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1659561412348409, "dur":2060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1659561412350513, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1659561412350559, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1659561412350566, "dur":1348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1659561412351952, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1659561412351992, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1659561412352000, "dur":1921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1659561412353968, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1659561412354020, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1659561412354030, "dur":6634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1659561412360717, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":24, "ts":1659561412360804, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1659561412360815, "dur":65108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":24, "ts":1659561412425975, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":24, "ts":1659561412426149, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1659561412428074, "dur":40697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":24, "ts":1659561412468821, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":24, "ts":1659561412468872, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1659561412468882, "dur":23241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":24, "ts":1659561412492175, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/level0" }}
+,{ "pid":12345, "tid":24, "ts":1659561412492223, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1659561412492237, "dur":13037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aeye/Desktop/vrVisualizer/vr_visualizer/builtVR/trial4_VRexplore_Data/level0" }}
+,{ "pid":12345, "tid":24, "ts":1659561412505343, "dur":17156, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1659561412530454, "dur":4059, "ph":"X", "name": "ProfilerWriteOutput" }
+,
