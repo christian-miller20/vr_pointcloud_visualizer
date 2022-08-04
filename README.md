@@ -1,5 +1,5 @@
 # VR Visualizer
-### By Christian Miller
+### By Christian Miller with AEYE.Inc
 
 ### Overview: 
 The VR Visualizer editable utilizes Unity Game Engine in order to render saved csv LiDAR point cloud data in a VR environment. 
