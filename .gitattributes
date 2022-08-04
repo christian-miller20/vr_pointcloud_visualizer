@@ -1,0 +1,2 @@
+unityVR/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+unityVR/Library/PackageCache/com.unity.burst@1.6.5/.Runtime/hostmac/lld filter=lfs diff=lfs merge=lfs -text
